@@ -30,21 +30,32 @@ Using Pandas & amp; Jupyter Notebook.
              Removing math & reading scores for 9th graders from Thomas High School will change the overall district summary data, in   
              that the original data was based on all students from all grades in 15 schools. With the math and reading scores for 9th   
              removed the average math and reading, passing math and passing reading percentages, as well as the overall passing 
-             percentage values would be smaller.
+             percentage values would be smaller. This may suggest the district is not performing as well as initially believed.
+             
+             • How is the school summary affected?
+             
+             Similar to the impact on the district summary, the updated school summary would be less representative of the true picture              of the overall school’s performance in math and reading. This is because the initial summary data shows scores from all                  grades including the 9th graders, upon which average and percentage scores were computed. Therefore, removing the 9th grade              math and reading scores will change the average and percentage scores as well, hence impacting the true academic image of                the school.
              
              • How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the   
              other schools?
              
              Thomas High School is the second highest-performing school with high average and percentage scores in math and reading.  
-             With the removal of 9th grade scores that would change the averages and percentages for the school, and may eventually show              that other schools perform better than Thomas High School.
+             With the removal of 9th grade scores that would change the averages and percentages for the school, and may likely show                  that other schools perform better than Thomas High School.
              
              • How does removing the ninth-grade scores affect the Math and Reading Scores by Grade.
              
+             The change would affect the 9th graders more than it would impact other grades, since the grade removal is specific to the              9th grade.
              
-             
-             
+            
              • Scores by School Spending, Scores by School Size, and Scores by School Type? 
+              
+             Scores by School Spending: Because the school’s scores are directly related to school spending per student, a change in    
+             scores up or down, would mean a change up or down in spending. 
+             
+             Scores by School Size: The school size is determined by the student count; so, if 9th grade scores are removed, (though                  their associated data remains), the scores by the school size will be reduced. 
 
+             Scores by School Type: A change in scores should have no direct impact on scores by school type.
+ 
 
     
     
