@@ -35,7 +35,7 @@ Using Pandas & amp; Jupyter Notebook.
              
              • How is the school summary affected?
              
-             Unlike the district summary, the school summary was greatly inpacted, The average math and reading scores went from 
+             Unlike the district summary, the school summary was greatly inpacted, The average reading and math scores went from 
              83.41 to 59.8 and 83.84 to 60.24, respectively, after the removal of the scores for 9th grade. 
              This in turn negatively impacts the overall performance of the school.
              
@@ -45,7 +45,7 @@ Using Pandas & amp; Jupyter Notebook.
              
               Prior to the removal of 9th grade math and reading scores, Thomas High School (THS) was the second top-performing
               school. After the removal it could be considered as one of the low-performing schools, while Pena High School taking
-              it's place as 2nd top-performing high school.
+              it's place as 2nd top-performing high school. THS after data cleansing has the lowest average math and reading scores.
                           
              • How does removing the ninth-grade scores affect the Math and Reading Scores by Grade.
              
