@@ -69,7 +69,8 @@ All other grades, 9th, 10th, 111th, 12th in all the other schools were not impac
 The above shows a change in scores by school spending
 
 
-Scores by School Size: 
+* Scores by School Size: 
+
 THS is in school size bin Medium(1000-2000). Before the change the scores by medium schoool size were:
 Before: Avg_math    Avg_Reading   %Passing_Reading    %Passing_math   %Overall Passing
           83.37       83.86           96.79             93.60             94.82
@@ -77,7 +78,8 @@ After the change the scores by medium schoool size were:
 After:    78.7        79.1            91                 88               90
 
 
-Scores by School Type:
+* Scores by School Type:
+
 Before:  School Type  Avg_math    Avg_Reading   %Passing_Reading
             Charter      83.5         83.9           97
 After:      Charter      80.5         80.9           93
@@ -85,6 +87,7 @@ After:      Charter      80.5         80.9           93
 No changes occured in the District type schools
 
 * Conclusion:
+
 All scores by (school spending, school size, school type) were all impacted/dropped due to the removal of the THS 9th grade math and reading scores.
 
 ### THINGS LEARNED
