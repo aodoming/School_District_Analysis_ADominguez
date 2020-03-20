@@ -27,8 +27,8 @@ Also:
 * Correct the students' names so there are no professional prefixes or suffixes.
 * Replace the reading and math scores for ninth graders at Thomas High School with NaN.
    * Use loc on the student_data_df DataFrame to select the columns by condition.
-   * Set the column you want equal to "NaN" by using np.nan for the reading and math scores separately. (Hint: Read the  
-   Pandas documentation on the loc method (Links to an external site.)
+   * Set the column you want equal to "NaN" by using np.nan for the reading and math scores separately.
+   (Hint: Read the Pandas documentation on the loc method (Links to an external site.)
  * Merge the clean student data with the school dataset.
  *	After removing the reading and math scores, answer the following questions:
 
@@ -45,8 +45,8 @@ was not hugely impacted.
 
 Unlike the district summary, the school summary was greatly inpacted. For THS, the average math and reading scores went                  from 83.41 to 59.85 and 83.84 to 60.24, respectively, after the removal of the scores for 9th graders. As a result,the                  %Passing Math and reading scored for THS went from 93.27 to 66.9 and 93.31 to 69.66, though the %Overall Passing did not                change.
 
- * How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the   
-  other schools?
+ * How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance,
+ relative to the other schools?
 
 Prior to the removal of 9th grade math and reading scores, Thomas High School (THS) was the second top-performing
 school. After the removal and average scores in math and reading going from 83.41 to 59.84 and 83.84 to 60.24                            respectively, THS is the lowest performing school. While Pena HS rose to number1 top-performing school.
@@ -59,11 +59,13 @@ All other grades, 9th, 10th, 111th, 12th in all the other schools were not impac
 
 
  * Scores by School Spending, Scores by School Size, and Scores by School Type? 
+|                                                    |
+|Scores by School Spending:                          | 
+|----------------------------------------------------|
+|Before: Avg_math  |  Avg_Reading  | %Passing_Reading|
+|          83.41   |    83.84      |     97.31       |
+|After:    59.84   |    60.24      |     69.66       |
 
-Scores by School Spending:
-Before: Avg_math    Avg_Reading   %Passing_Reading
-          83.41       83.84           97.31
-After:    59.84       60.24           69.66
 The above shows a change in scores by school spending
 
 
