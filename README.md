@@ -1,5 +1,5 @@
 ## DESCRIPTION
-Analyzing and aggregating data on student funding and students standardized test scores to showcasemtrends and school performance.
+Analyzing and aggregating data on student funding and students standardized test scores to showcase trends and school performance.
 
 ### SITUATION/TASK
 * A high-level snapshot of the district's key metrics, presented in a table format
