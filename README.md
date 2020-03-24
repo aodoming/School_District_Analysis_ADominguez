@@ -59,13 +59,6 @@ All other grades, 9th, 10th, 111th, 12th in all the other schools were not impac
 
 
  * Scores by School Spending, Scores by School Size, and Scores by School Type? 
-|                                                    |
-|Scores by School Spending:                          | 
-|----------------------------------------------------|
-|Before: Avg_math  |  Avg_Reading  | %Passing_Reading|
-|          83.41   |    83.84      |     97.31       |
-|After:    59.84   |    60.24      |     69.66       |
-
 
 |Scores by School Spending:      |      |  |
 | ------------- |:-------------:| -----:|
@@ -73,17 +66,6 @@ All other grades, 9th, 10th, 111th, 12th in all the other schools were not impac
 |Avg_math:  83.41  | Avg_Reading: 83.84      | %Passing_Reading: 97.31|
 |After  
 |Avg_math:  59.84  |Avg_Reading:  60.24    | %Passing_Reading: 69.66|
-
-
-
-
-|Scores by School Spending:       |    |
-| ------------- |:-------------:| -----:|
-|Before              | 
-|Avg_math:  83.41    | Avg_Reading: 83.84  |%Passing_Reading: 97.31|
-|
-|After              |                      |         |         
-|Avg_math:  59.84   | Avg_Reading:  60.24    |%Passing_Reading: 69.66|
 
 The above shows a change in scores by school spending
 
@@ -95,6 +77,13 @@ Before: Avg_math    Avg_Reading   %Passing_Reading    %Passing_math   %Overall P
           83.37       83.86           96.79             93.60             94.82
 After the change the scores by medium schoool size were:
 After:    78.7        79.1            91                 88               90
+
+|Scores by School Size:     |      |  |
+| ------------- |:-------------:| -----:|
+|Before      | |  |
+|Avg_math:  83.37  | Avg_Reading: 83.86      | %Passing_Reading: 96.79| %Passing_math: 93.60 | %Overall Passing:94.82 |
+|After  
+|Avg_math:  78.7 |Avg_Reading:  79.1    | %Passing_Reading: 91| %Passing_math: 88 |  %Overall Passing: 90 |
 
 
 * Scores by School Type:
