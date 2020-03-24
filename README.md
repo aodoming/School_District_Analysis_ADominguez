@@ -67,6 +67,16 @@ All other grades, 9th, 10th, 111th, 12th in all the other schools were not impac
 |After:    59.84   |    60.24      |     69.66       |
 
 
+|Scores by School Spending:      |      |  |
+| ------------- |:-------------:| -----:|
+|Before      | |  |
+|Avg_math:  83.41  | Avg_Reading: 83.84      |  |%Passing_Reading: 97.31|
+||
+| zebra stripes | are neat      |    $1 |
+
+
+
+
 |Scores by School Spending:       |    |
 | ------------- |:-------------:| -----:|
 |Before              | 
