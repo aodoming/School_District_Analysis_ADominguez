@@ -71,8 +71,8 @@ All other grades, 9th, 10th, 111th, 12th in all the other schools were not impac
 | ------------- |:-------------:| -----:|
 |Before      | |  |
 |Avg_math:  83.41  | Avg_Reading: 83.84      |  |%Passing_Reading: 97.31|
-||
-| zebra stripes | are neat      |    $1 |
+|After  
+|Avg_math:  59.84  |Avg_Reading:  60.24    | %Passing_Reading: 69.66|
 
 
 
