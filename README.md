@@ -81,9 +81,9 @@ After:    78.7        79.1            91                 88               90
 |Scores by School Size:     |      |  |  |  |
 | ------------- |:-------------:|:-----:|:-----:|:------:|
 |Before      | |  | | |
-|Avg_math:  83.37  | Avg_Reading: 83.86   | %Passing_Reading: 96.79| %Passing_math: 93.60 | %Overall Passing:94.82 |
+|Avg_math: 83.37  | Avg_Reading: 83.86   | %Passing_Reading: 96.79| %Passing_math:  93.60 | %Overall Passing:  94.82 |
 |After  
-|Avg_math:  78.7 |Avg_Reading:  79.1    | %Passing_Reading: 91| %Passing_math: 88 |  %Overall Passing: 90 |
+|Avg_math: 78.7 |   Avg_Reading: 79.1    | %Passing_Reading: 91| %Passing_math:  88 |  %Overall Passing:  90 |
 
 
 * Scores by School Type:
