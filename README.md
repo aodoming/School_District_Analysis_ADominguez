@@ -71,12 +71,14 @@ The above shows a change in scores by school spending
 
 
 * Scores by School Size: 
-
-THS is in school size bin Medium(1000-2000). Before the change the scores by medium schoool size were:
 Before: Avg_math    Avg_Reading   %Passing_Reading    %Passing_math   %Overall Passing
           83.37       83.86           96.79             93.60             94.82
-After the change the scores by medium schoool size were:
+          
+          After the change the scores by medium schoool size were:
 After:    78.7        79.1            91                 88               90
+
+
+THS is in school size bin Medium(1000-2000). Scores before and after differs by medium schoool size as follows:
 
 |Scores by School Size:     |      |  |  |  |
 | ------------- |:-------------:|:-----:|:-----:|:------:|
