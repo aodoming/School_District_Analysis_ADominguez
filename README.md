@@ -90,12 +90,6 @@ THS is in school size bin Medium(1000-2000). Scores before and after differs by 
 |After  
 |          |Charter  | 80.5|80.9 | 93|
 
-
-
-Before:  School Type  Avg_math    Avg_Reading   %Passing_Reading
-            Charter      83.5         83.9           97
-After:      Charter      80.5         80.9           93
-
 No changes occured in the District type schools
 
 * Conclusion:
