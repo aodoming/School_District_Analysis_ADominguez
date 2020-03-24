@@ -58,6 +58,8 @@ All other grades, 10th, 11th & 12th in THS maintained their scores.
 All other grades, 9th, 10th, 111th, 12th in all the other schools were not impacted.
 
 
+
+
  * Scores by School Spending, Scores by School Size, and Scores by School Type? 
 
 |Scores by School Spending:      |      |  |
@@ -68,6 +70,8 @@ All other grades, 9th, 10th, 111th, 12th in all the other schools were not impac
 |Avg_math:     59.84  |Avg_Reading:     60.24    | %Passing_Reading:    69.66|
 
 The above shows a change in scores by school spending
+
+
 
 
 * Scores by School Size: 
@@ -81,6 +85,8 @@ THS is in school size bin Medium(1000-2000). Scores before and after differs by 
 |Avg_math:    78.7 |   Avg_Reading: 79.1    | %Passing_Reading:     91| %Passing_math:     88 |  %Overall Passing:     90 |
 
 
+
+
 * Scores by School Type:
 
 | Scores by School Type:   |      |  |  |  |
@@ -91,6 +97,9 @@ THS is in school size bin Medium(1000-2000). Scores before and after differs by 
 |          |Charter  | 80.5|80.9 | 93|
 
 No changes occured in the District type schools
+
+
+
 
 * Conclusion:
 
